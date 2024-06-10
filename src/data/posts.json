@@ -1,0 +1,23 @@
+{
+  "posts": [
+    {
+      "id": "2",
+      "title": "Next.js13をUdemyで学ぶ",
+      "content": "shincodeさんの教材でNext.jsを学んでいます。",
+      "createdAt": "2022/07/1T04:04:28.107Z"
+    },
+    {
+      "id": "5",
+      "title": "jsonサーバー",
+      "content": "json-serverは、簡単にREST APIを構築できるツールです。ローカルマシン上にJSONファイルを置くだけで、RESTfulなAPIを作成し、GET、POST、PUT、DELETEなどのHTTPリクエストを使用してデータの取得、作成、更新、削除を行うことができます。",
+      "createdAt": "2022/07/16T04:04:28.107Z"
+    },
+    {
+      "id": "6",
+      "title": "データの再検証",
+      "content": "Next.jsは、Node.js上に構築されたオープンソースのWebアプリケーションフレームワークであり、サーバーサイドスクリプトや静的Webサイトの生成などの、ReactベースのWebアプリケーション開発を提供する",
+      "createdAt": "2024-06-02T04:04:28.107Z"
+    }
+   
+  ]
+}
